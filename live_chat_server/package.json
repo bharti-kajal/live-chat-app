@@ -1,0 +1,35 @@
+{
+  "name": "live-chat-application",
+  "version": "1.0.0",
+  "description": "Live Chat Application",
+  "keywords": [
+    "Live",
+    "Chat",
+    "Application",
+    "Socket.io",
+    "Express",
+    "MongoDB",
+    "Node"
+  ],
+  "homepage": "https://github.com/bharti-kajal/live-chat-app#readme",
+  "bugs": {
+    "url": "https://github.com/bharti-kajal/live-chat-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharti-kajal/live-chat-app.git"
+  },
+  "license": "ISC",
+  "author": "Kajal Bharti",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.2",
+    "socket.io": "^4.8.1"
+  }
+}
